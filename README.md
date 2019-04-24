@@ -1,6 +1,8 @@
 # Placar-ReactJS
 Placar eletronico com ReactJS
 
-#Instalar Dependencias
+Instalar Dependencias
+
 npm install
+
 sudo npm install -g webpack
